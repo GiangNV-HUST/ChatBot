@@ -14,7 +14,7 @@ Dự án xây dựng chatbot trả lời câu hỏi dựa trên tài liệu riê
 
 ---
 
-## 🛠️ Kiến trúc hệ thống
+## 🛠️ Giao diện chatbot
 
 ![RAG Architecture](image/RagChatbot.png)
 
