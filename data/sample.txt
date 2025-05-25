@@ -1,0 +1,1 @@
+Dữ liệu mẫu cho RAG chatbot.
